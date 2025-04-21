@@ -36,3 +36,7 @@ Watch the PoC video to see the demonstration in action:
 
 ### Disclaimer
 - This project is intended for educational purposes only. Modifying software without explicit permission may violate terms of service and laws in your jurisdiction. Use responsibly and with caution.
+
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
